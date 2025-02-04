@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: aniwatch-api
+    name: parthkabanda-anime-api
     runtime: docker
     repo: https://github.com/ghoshRitesh12/aniwatch-api.git
     plan: free
